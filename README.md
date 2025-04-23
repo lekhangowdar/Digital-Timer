@@ -35,13 +35,11 @@ To develop or understand this project, you should have familiarity with:
 ---
 
 ## 🛠️ Tech Stack & Components
-- **Microcontroller**: (e.g., PIC18F, ATmega series, or any embedded board)
+- **Microcontroller**: ( PIC18F4580)
 - **RTC Module**: DS1307/DS3231 via I2C
 - **Display**: 16x2 LCD (Parallel or I2C)
-- **Input**: 4x4 or 3x4 matrix keypad
+- **Input**:  3x4 matrix keypad
 - **Output**: Buzzer + LEDs
-- **Software**: MPLAB X IDE / AVR Studio / Arduino IDE (depending on MCU)
+- **Software**: MPLAB X IDE 
 
 ---
-
-## 📁 File Structure
